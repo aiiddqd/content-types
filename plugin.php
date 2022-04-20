@@ -6,7 +6,7 @@
  * Author: uptimizt
  * Version: 0.1
  * Author URI: https://github.com/uptimizt
- * Text Domain: content-types
+ * Text Domain: content_types
  * Domain Path: /languages
  * License: GPL-2.0+
  */
